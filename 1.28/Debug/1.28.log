@@ -1,0 +1,4 @@
+﻿  test.c
+G:\C_Code\1.28\test.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+G:\C_Code\1.28\test.c(15,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  1.28.vcxproj -> G:\C_Code\1.28\Debug\1.28.exe
