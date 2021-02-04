@@ -1,0 +1,2 @@
+G:\C_Code\2.3\Debug\2.3.exe
+G:\C_Code\2.3\Debug\2.3.pdb
