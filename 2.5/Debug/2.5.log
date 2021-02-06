@@ -1,0 +1,3 @@
+﻿  test.c
+G:\C_Code\2.5\test.c(201): warning C4716: “my_memmove”: 必须返回一个值
+  2.5.vcxproj -> G:\C_Code\2.5\Debug\2.5.exe
