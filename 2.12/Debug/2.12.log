@@ -1,0 +1,17 @@
+﻿  test_2_12.cpp
+G:\C_Code\2.12\test_2_12.cpp(13,22): warning C4838: 从“int”转换到“char”需要收缩转换
+G:\C_Code\2.12\test_2_12.cpp(13,40): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C_Code\2.12\test_2_12.cpp(13,22): warning C4309: “初始化”: 截断常量值
+G:\C_Code\2.12\test_2_12.cpp(13,31): warning C4838: 从“int”转换到“char”需要收缩转换
+G:\C_Code\2.12\test_2_12.cpp(13,31): warning C4309: “初始化”: 截断常量值
+G:\C_Code\2.12\test_2_12.cpp(14,22): warning C4838: 从“int”转换到“char”需要收缩转换
+G:\C_Code\2.12\test_2_12.cpp(14,40): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C_Code\2.12\test_2_12.cpp(14,22): warning C4309: “初始化”: 截断常量值
+G:\C_Code\2.12\test_2_12.cpp(14,31): warning C4838: 从“int”转换到“char”需要收缩转换
+G:\C_Code\2.12\test_2_12.cpp(14,31): warning C4309: “初始化”: 截断常量值
+G:\C_Code\2.12\test_2_12.cpp(15,21): warning C4838: 从“int”转换到“char”需要收缩转换
+G:\C_Code\2.12\test_2_12.cpp(15,38): warning C4305: “初始化”: 从“int”到“char”截断
+G:\C_Code\2.12\test_2_12.cpp(15,21): warning C4309: “初始化”: 截断常量值
+G:\C_Code\2.12\test_2_12.cpp(15,30): warning C4838: 从“int”转换到“char”需要收缩转换
+G:\C_Code\2.12\test_2_12.cpp(15,30): warning C4309: “初始化”: 截断常量值
+  2.12.vcxproj -> G:\C_Code\2.12\Debug\2.12.exe
