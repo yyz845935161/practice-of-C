@@ -1,5 +1,5 @@
 Skip to content
-Search or jump to¡­
+Search or jump to
 
 Pulls
 Issues
