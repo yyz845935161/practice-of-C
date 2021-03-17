@@ -1,29 +1,4 @@
-Skip to content
-Search or jump to...
 
-Pulls
-Issues
-Marketplace
-Explore
- 
-@yyz845935161 
-sanguonaigao
-/
-2020_code
-4
-1417
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-More
-2020_code/84°à/test_5_9/test_5_9/test.c
- 
- 
-456 lines (424 sloc)  6.19 KB
-  
 #define _CRT_SECURE_NO_WARNINGS 1
 
 #include <stdio.h>
